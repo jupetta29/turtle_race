@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jupetta29/turtle_race/master/media/logo.png"/>
+</p>
+
 # Turtle Race
 > This project is the next version of modern day horse racing!
 
